@@ -1,0 +1,24 @@
+default: &default
+   adapter: postgresql
+   encoding: unicode
+  
+development:
+   adapter: postgresql
+   encoding: unicode
+   database: rr20api_development
+   username: my_app
+   password: 123
+
+test:
+   adapter: postgresql
+   encoding: unicode
+   database: rr20api_test
+   username: my_app
+   password: 123
+ 
+production:
+   adapter: postgresql
+   encoding: unicode
+   database: rr20api_production
+   username: my_app
+   password: 123

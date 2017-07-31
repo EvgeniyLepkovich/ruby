@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 
+  url: 
+  address: 
+  last_sync_at: 2017-07-28 16:39:23
+
+two:
+  name: 
+  url: 
+  address: 
+  last_sync_at: 2017-07-28 16:39:23
